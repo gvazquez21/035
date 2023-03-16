@@ -21,10 +21,11 @@ enableRobotsTXT = true
   mainSections = ['blog']
 
   googleFonts = true
-
+  url="/"
   [params.logo]
     main = "img/logo/logo.svg"
     alt = "Tella Logo"
+    
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
