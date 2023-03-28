@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
-title = "Placeholder Text"
-date = "2019-03-09"
+author = "Abraham Leis"
+title = "Erreichen Sie Ihre Ziele"
+date = "2023-03-28"
 description = "Lorem Ipsum Dolor Si Amet"
 image= "/img/image03.jpg"
 tags = [
@@ -10,7 +10,9 @@ tags = [
 ]
 +++
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+Die Säule der Fachkräfte bleibt für die Bundesregierung das zentrale Element der Zuwanderung. Grundlage dafür ist unter anderem die Blaue Karte EU für Akademiker. Die derzeitigen Gehaltsschwellen werden jedoch gesenkt. Mit anderen Worten, um in Deutschland arbeiten zu können, muss man nicht mehr so ​​viel verdienen wie jetzt, was die Einstellung erleichtert. Außerdem wollen sie die Attraktivität für ein Studium oder eine Berufsausbildung in Deutschland steigern.
+
+ectora summo. <!--more-->Redit 
 
 1. Exierant elisi ambit vivere dedere
 2. Duce pollice
@@ -35,7 +37,6 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
 
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
 
 Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides **parte**.
 

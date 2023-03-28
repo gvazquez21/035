@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+author = "Abraham Leis"
+title = "El mundo en Alemania"
+date = "2023-03-28"
+description = "Die Bundesregierung plant ein neues Gesetz zur qualifizierten Zuwanderung."
 image= "/img/image01.jpg"
 tags = [
     "markdown",
@@ -17,7 +17,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Die Bundesregierung plant ein neues Gesetz zur qualifizierten Zuwanderung. Ab 2023 wird es noch einfacher, zum Arbeiten nach Deutschland zu kommen.
 <!--more-->
 
 ## Headings
@@ -33,9 +33,7 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 ## Paragraph
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Ab 2023 will Deutschland für Fachkräfte aus aller Welt attraktiver werden. Ein neues Gesetz soll Menschen aus Nicht-EU-Staaten den Einstieg in den deutschen Arbeitsmarkt erleichtern und beschleunigen. Ende November 2022 hat die Bundesregierung die Eckpunkte der Neuregelung gebilligt, die das seit März 2020 geltende Gesetz zur qualifizierten Zuwanderung ergänzen wird. Anfang 2023 soll ein entsprechender Gesetzentwurf an die Bundesregierung verschickt werden der Deutsche Bundestag.
 
 ## Blockquotes
 
