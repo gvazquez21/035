@@ -1,8 +1,9 @@
 ---
-author: Hugo Authors
-title: Math Typesetting
-date: 2019-03-08
-description: A brief guide to setup KaTeX
+author: Abraham Leis
+title:  Energy Managers
+date: 2023-03-03
+description: Der Building Energy Management Systems Market Report 2023 stellt die aktuellen und zukünftigen technischen und finanziellen Details der Branche zur Verfügung.
+image: /img/image06.jpg
 math: true
 ---
 

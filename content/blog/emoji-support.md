@@ -1,8 +1,9 @@
 +++
-author = "Hugo Authors"
-title = "Emoji Support"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+author = "Abraham Leis"
+title = "Test Automation"
+date = "2023-03-28"
+description = "So stellen Sie sicher, dass Ihre Testautomatisierungsstrategie mit dem automatisierten Testservice skalierbar ist"
+image= "/img/image05.jpg"
 tags = [
     "emoji",
 ]
