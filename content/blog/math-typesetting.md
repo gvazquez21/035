@@ -16,3 +16,5 @@ Die heißen Abgase aus der Verbrennungsreaktion werden verwendet, um Wasser zu D
 Der Dampf expandiert dann durch eine Turbine und erzeugt mechanische Bewegungsenergie. (Wärme → Bewegung)
 Die Bewegung der Turbine dreht einen elektrischen Generator, der Strom zum Fließen bringt. (Bewegung → Elektrizität)
 Tatsächlich sind unsere eigenen Körper äußerst komplexe Umwandlungstechnologien. Sie nehmen chemische Energie aus der Nahrung auf und wandeln sie in verschiedene Formen chemischer Energie um, die wir zum Funktionieren benötigen. Unser Körper kann diese Energie dann nutzen, um sie in viele andere Formen umzuwandeln: Wärme, Bewegung, Schall, potenzielle Energie der Gravitation usw.
+
+info@vazquez-personalvermittlung.com	
