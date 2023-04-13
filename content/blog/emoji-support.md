@@ -9,39 +9,8 @@ tags = [
 ]
 +++
 
-Emoji can be enabled in a Hugo project in a number of ways. 
-<!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
+In der Softwarewelt gibt es zwei Arten von Tests: manuell und automatisiert. Einige Arten von manuellen Tests, wie Entdeckungstests und Usability-Tests, sind von unschätzbarem Wert. Sie können andere Arten von Tests wie Regressionstests und Funktionstests manuell durchführen, aber es ist eine ziemlich verschwenderische Praxis für Menschen, immer wieder dasselbe zu tun. Es ist diese Art von Wiederholungstests, die sich für die Testautomatisierung anbietet.
 
-To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+Testautomatisierung ist die Praxis, Tests automatisch auszuführen, Testdaten zu verwalten und die Ergebnisse zur Verbesserung der Softwarequalität zu verwenden. Es ist in erster Linie eine Qualitätssicherungsmaßnahme, aber seine Aktivitäten erfordern das Engagement des gesamten Software-Produktionsteams. Von Geschäftsanalysten über Entwickler bis hin zu DevOps-Ingenieuren – um das Beste aus der Testautomatisierung herauszuholen, müssen alle einbezogen werden.
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
-
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
-
-***
-
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
-
-{{< highlight html >}}
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-{{< /highlight >}}
-
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style>
-{{< /css.inline >}}
+Dieser Beitrag vermittelt Ihnen ein allgemeines Verständnis davon, worum es bei der Testautomatisierung geht. Es gibt alle Arten von Tests, aber nicht alle müssen automatisiert werden; Beginnen wir daher mit den allgemeinen Kriterien für die Testautomatisierung.
